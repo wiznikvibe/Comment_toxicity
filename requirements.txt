@@ -1,0 +1,12 @@
+pandas 
+numpy
+mlflow
+dvc
+sklearn 
+tensorflow
+pyYAML
+dill
+flask 
+
+
+- e.
