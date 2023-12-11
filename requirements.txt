@@ -2,11 +2,14 @@ pandas
 numpy
 mlflow
 dvc
-sklearn 
+scikit-learn
+scipy
 tensorflow
 pyYAML
 dill
 flask 
-
+imblearn
+pymongo
+ipykernel
 
 - e.
