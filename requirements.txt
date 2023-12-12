@@ -11,5 +11,9 @@ flask
 imblearn
 pymongo
 ipykernel
+nltk
+setuptools
+pyspellchecker
+autocorrect
 
-- e.
+-e .
